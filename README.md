@@ -1,19 +1,19 @@
 # The-complete-self-taught-software-developer-roadmap
 ** NOTE:this is for people who want to become a Fullstack WebDeveloper **
 
-#Step 0:Learn html and css: 1 week
+# Step 0:Learn html and css: 1 week
 
-#Step1:Learn some computer science : 10-15 hours
+# Step1:Learn some computer science: 10-15 hours
 
 You can look at the CS50 Harvard course.It's really cool while really simple!
 
 CS50 course:shorturl.at/CPTX3
 
-#Step2:Pickup a programming language: 15-20 days
+# Step2:Pickup a programming language: 15-20 days
 
 I would suggest to pick up JavaScript.since it's so flexible and you can do a lot in it.
 
-#Step:3 Learn a framework and start building projects 10-15 days
+# Step:3 Learn a framework and start building projects 10-15 days
 
 If you wanna learn frontend I would suggest looking at react.
 React comes up with a good documentation and best place to probably learn react in on its own website.
@@ -22,7 +22,7 @@ It comes with good tutorials and concepts are explained really well!
 
 React docs:shorturl.at/nryY1
 
-#Step 4:Learn some backend knowledge
+# Step 4:Learn some backend knowledge: 15 - 20 days
 
 I would suggest node.js,since if you have learned javascript you don't need to worry about it too much.It will be really easy for you
 
@@ -31,7 +31,7 @@ Node.js course :shorturl.at/iOP12
 You can also take a look at its docs.It's really good
 
 
-#Step5:Learn about REST API
+# Step5:Learn about REST API: 1 week
 
 At this time you should be able to land jobs or contracts.But you do need to know about api as a developer you will be working on consuming a lot of API'S
 
