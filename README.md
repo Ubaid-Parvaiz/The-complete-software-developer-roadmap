@@ -24,7 +24,7 @@ React docs:shorturl.at/nryY1
 
 # Step 4:Learn some backend knowledge: 15 - 20 days
 
-I would suggest node.js,since if you have learned javascript you don't need to worry about it too much.It will be really easy for you
+I would suggest node.js,since if you have learned javascript you don't need to worry about it too much.It will be really easy for you.
 
 Node.js course :shorturl.at/iOP12
 
