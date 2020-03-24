@@ -12,6 +12,7 @@ CS50 course:shorturl.at/CPTX3
 # Step2:Pickup a programming language: 15-20 days
 
 I would suggest to pick up JavaScript.since it's so flexible and you can do a lot in it.
+Mozilla has a free course on it.It's so amazing also freecodecamp has a good course on it.You can check their channel on YouTube.
 
 # Step:3 Learn a framework and start building projects 10-15 days
 
