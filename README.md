@@ -1,5 +1,5 @@
 # The-complete-self-taught-software-developer-roadmap
-** NOTE:this is for people who want to become a Fullstack WebDeveloper **
+** NOTE:this is for people who want to become a Fullstack WebDeveloper and also all of the resources listed below are totally free and I am in no way affiliated with these links.This is based on my personal experience! **
 
 # Step 0:Learn html and css: 1 week
 
@@ -49,5 +49,5 @@ So what do you?Suppose you are picking up JavaScript.Don't go and start a course
 What you do is look at the docs and pick up a course.Google the most important that a biggeners needs to learn.Read about those concepts on docs.Play with the concepts and then try to build something of your own.Don't just copy and paste.
 You will fall into a lot of problems but that's where the fun begins.
 
-As promised I'm going to give you the most popular book on html.It's up on the top you could clone or download this repository and get that.
+As promised I'm going to give you the most popular book on html/css for free.It's up on the top you could clone or download this repository and get that.
 Also if you liked this plan I gave you.Star this project and share it,and if you don't agree with what I said still star and share it :)
