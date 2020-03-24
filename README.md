@@ -40,7 +40,7 @@ Now you should be ready and can call yourself a Fullstack developer.You can get 
 
 
 
-# How to learn quickly - no.1 secrets
+# How to learn quickly - no.1 secret
 
 The no1 reason why people get stuck while learning is trying to finish every course on internet while not playing with language itself.
 I did this too.This is more known as tutorial purgotary.You can learn about it on YouTube.There are a ton of vedios on it.
